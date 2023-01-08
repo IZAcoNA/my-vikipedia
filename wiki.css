@@ -1,0 +1,26 @@
+.negr:hover {
+    width: 70px;
+    height: 70px;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+}
+
+p {
+    color: white;
+}
+
+.sk {
+    width: 400px;
+    height: 400px;
+    cursor: ew-resize;
+}
+
+.iz {
+    background-color: black;
+}
+
+.iz:hover {
+    padding: 0 20px;
+    background-color: violet;
+}

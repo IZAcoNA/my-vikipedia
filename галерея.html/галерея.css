@@ -1,0 +1,32 @@
+.container {
+    background-color: red;
+    border-radius: 30px;
+    display: inline-block;
+    /* height: 300px;
+    width: 400px; */
+}
+
+.img {
+    border-radius: 30px;    
+    display: inline-block;
+    height: 150px;
+    width: 200px;
+    margin: 5px 5px 5px 5px;
+}
+
+.imj {
+    border-radius: 30px;
+    display: inline-block;
+    height: 150px;
+    width: 200px;
+    margin: 5px 5px 5px 5px;
+}
+
+.imp {
+    border-radius: 30px;
+    display: inline-block;
+    height: 150px;
+    width: 200px;
+    margin: 5px 5px 5px 5px;
+    cursor: all-scroll
+}
